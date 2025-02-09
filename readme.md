@@ -1,10 +1,10 @@
 # How to use ?
 
-Docker desktop : 
+**Docker desktop :**
 
-Clone the project and open it in vs code 
+- Clone the project (with git or the zip file) and open it in vs code.
 
-Once is good click on terminal in vscode and past this : 
+- Once is good go to the vscode terminal and past this command to build the project : 
 
 `docker build -t hello-world-docker .` 
 
