@@ -35,4 +35,4 @@ docker build -t hello-world-docker .
 
 ### 🚀 3. Run the Image  
 
-Once the build is complete, run the image in **Docker Desktop** and enjoy your project! 🎉  
+Once the build is complete, run the image in **Docker Desktop** and enjoy the project (on localhost:8080) ! 🎉  
